@@ -13,8 +13,6 @@ Skills: Cadence (Virtuoso, Genus & Encounter)
 - 💬 Ask me about dgd 
 - 📫 How to reach me: dgdg 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Asaduzzaman-Seam)  
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dgdg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](dgdg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/dgdg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/dgdg)  
 
