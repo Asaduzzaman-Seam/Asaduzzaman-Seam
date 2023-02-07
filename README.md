@@ -15,7 +15,7 @@
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=Asaduzzaman-Seam&style=flat-square&color=blue" alt=""/>
   <h1> Hi there 👋, My name is Asaduzzaman Seam </h1>
-  <h2> Electrical & Electronic Engineering Student <h2>
+  <h2> Electrical & Electronic Engineering Student </h2>
 </div>
 
 <div align="center">
