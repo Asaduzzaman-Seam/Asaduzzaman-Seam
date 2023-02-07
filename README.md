@@ -17,8 +17,8 @@
 </div>
 
 <div align="center">
-  ## Hi there 👋, My name is Asaduzzaman Seam
-  ### Electrical & Electronic Engineering Student
+  <h1> Hi there 👋, My name is Asaduzzaman Seam </h1>
+  <h2> Electrical & Electronic Engineering Student <h2>
 </div>
 
 <div align="center">
