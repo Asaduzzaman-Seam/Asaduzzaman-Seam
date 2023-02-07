@@ -1,6 +1,6 @@
 ## Hi there 👋, my name is Asaduzzaman Seam
 ### Electrical & Electronic Engineering Student
-![I am an electrical & electronic engineering student.](https://snyk.io/wp-content/uploads/blog-banner-github-scanning.png)
+![I am an electrical & electronic engineering student.](https://photos.google.com/photo/AF1QipM6O8eDbK12JstGhyH1zj7J6m94NKXukAOjUtjo)
 
 Myself  Asaduzzaman Seam, an electrical & electronic engineering student. I am determined  to  become  a  skilled  and  professional  engineer.  I have been working on robotics and  programming since  2018. In  addition, I am learning, exploring new things, ready to accept new  challenges  and  always  making myself up  to date.
 
