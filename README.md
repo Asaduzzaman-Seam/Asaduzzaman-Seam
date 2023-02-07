@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 ## Hi there 👋, my name is Asaduzzaman Seam
 ### Electrical & Electronic Engineering Student
 ![I am an electrical & electronic engineering student.](https://photos.google.com/photo/AF1QipM6O8eDbK12JstGhyH1zj7J6m94NKXukAOjUtjo)
