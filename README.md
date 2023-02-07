@@ -15,7 +15,6 @@
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=Asaduzzaman-Seam&style=flat-square&color=blue" alt=""/>
   <h1> Hi there 👋, My name is Asaduzzaman Seam </h1>
-  <h2> Electrical & Electronic Engineering Student </h2>
 </div>
 
 <div align="center">
@@ -27,18 +26,20 @@ Myself  Asaduzzaman Seam, an electrical & electronic engineering student. I am d
 ---
 
 ### :fire: My Skills :
--  VLSI Software & Tools    : Cadence (Virtuoso, Genus & Encounter);
--  Scripting Languages      : Verilog HDL, MATLAB;
--  Programming Languages    : C++, Python, PHP;
--  Frameworks               : Laravel, UIKit, Bootstrap, Materialize;
--  Simulation Software      : Quartus, PSpice, Proteus, ETAP, Power World;
--  Software                 : AutoCAD, MS Office (Word, Excel, PowerPoint);
--  Additional Software      : Adobe (Photoshop, Premiere Pro);
+-  VLSI Software & Tools....: Cadence (Virtuoso, Genus & Encounter);
+-  Scripting Languages......: Verilog HDL, MATLAB;
+-  Programming Languages....: C++, Python, PHP;
+-  Frameworks...............: Laravel, UIKit, Bootstrap, Materialize;
+-  Simulation Software......: Quartus, PSpice, Proteus, ETAP, Power World;
+-  Software.................: AutoCAD, MS Office (Word, Excel, PowerPoint);
+-  Additional Software......: Adobe (Photoshop, Premiere Pro);
 
 ---
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Asaduzzaman-Seam&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asaduzzaman-Seam&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dgdg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](dgdg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/dgdg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/dgdg)  
 
