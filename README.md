@@ -16,9 +16,14 @@
   <img src="https://komarev.com/ghpvc/?username=Asaduzzaman-Seam&style=flat-square&color=blue" alt=""/>
 </div>
 
-## Hi there 👋, my name is Asaduzzaman Seam
-### Electrical & Electronic Engineering Student
-![I am an electrical & electronic engineering student.](https://photos.google.com/photo/AF1QipM6O8eDbK12JstGhyH1zj7J6m94NKXukAOjUtjo)
+<div align="center">
+  ## Hi there 👋, My name is Asaduzzaman Seam
+  ### Electrical & Electronic Engineering Student
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 Myself  Asaduzzaman Seam, an electrical & electronic engineering student. I am determined  to  become  a  skilled  and  professional  engineer.  I have been working on robotics and  programming since  2018. In  addition, I am learning, exploring new things, ready to accept new  challenges  and  always  making myself up  to date.
 
